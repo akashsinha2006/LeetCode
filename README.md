@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/akashsinha2006/LeetCode/tree/master/0904-fruit-into-baskets) |
+## Math
+|  |
+| ------- |
+| [3871-count-commas-in-range-ii](https://github.com/akashsinha2006/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 <!---LeetCode Topics End-->
