@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/akashsinha2006/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akashsinha2006/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3871-count-commas-in-range-ii](https://github.com/akashsinha2006/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/akashsinha2006/LeetCode/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/akashsinha2006/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
