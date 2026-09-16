@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/akashsinha2006/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0904-fruit-into-baskets](https://github.com/akashsinha2006/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akashsinha2006/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/akashsinha2006/LeetCode/tree/master/1695-maximum-erasure-value) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/akashsinha2006/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/akashsinha2006/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/akashsinha2006/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
@@ -106,5 +108,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/akashsinha2006/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/akashsinha2006/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/akashsinha2006/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
