@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/akashsinha2006/LeetCode/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/akashsinha2006/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akashsinha2006/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akashsinha2006/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akashsinha2006/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/akashsinha2006/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akashsinha2006/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/akashsinha2006/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0904-fruit-into-baskets](https://github.com/akashsinha2006/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akashsinha2006/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akashsinha2006/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1695-maximum-erasure-value](https://github.com/akashsinha2006/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akashsinha2006/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/akashsinha2006/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1208-get-equal-substrings-within-budget](https://github.com/akashsinha2006/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akashsinha2006/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akashsinha2006/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akashsinha2006/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/akashsinha2006/LeetCode/tree/master/1695-maximum-erasure-value) |
 ## Math
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akashsinha2006/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akashsinha2006/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/akashsinha2006/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/akashsinha2006/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -52,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1208-get-equal-substrings-within-budget](https://github.com/akashsinha2006/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akashsinha2006/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akashsinha2006/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Prefix Sum
 |  |
