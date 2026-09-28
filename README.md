@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/akashsinha2006/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0402-remove-k-digits](https://github.com/akashsinha2006/LeetCode/tree/master/0402-remove-k-digits) |
 | [1044-longest-duplicate-substring](https://github.com/akashsinha2006/LeetCode/tree/master/1044-longest-duplicate-substring) |
 | [1096-brace-expansion-ii](https://github.com/akashsinha2006/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akashsinha2006/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/akashsinha2006/LeetCode/tree/master/0402-remove-k-digits) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akashsinha2006/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/akashsinha2006/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/akashsinha2006/LeetCode/tree/master/0402-remove-k-digits) |
 | [1096-brace-expansion-ii](https://github.com/akashsinha2006/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akashsinha2006/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akashsinha2006/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -214,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akashsinha2006/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akashsinha2006/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/akashsinha2006/LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
