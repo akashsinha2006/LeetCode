@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/akashsinha2006/LeetCode/tree/master/0018-4sum) |
+| [0274-h-index](https://github.com/akashsinha2006/LeetCode/tree/master/0274-h-index) |
 | [0835-image-overlap](https://github.com/akashsinha2006/LeetCode/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/akashsinha2006/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akashsinha2006/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/akashsinha2006/LeetCode/tree/master/0018-4sum) |
+| [0274-h-index](https://github.com/akashsinha2006/LeetCode/tree/master/0274-h-index) |
 | [1096-brace-expansion-ii](https://github.com/akashsinha2006/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akashsinha2006/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akashsinha2006/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/akashsinha2006/LeetCode/tree/master/0402-remove-k-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/akashsinha2006/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
