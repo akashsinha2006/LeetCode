@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/akashsinha2006/LeetCode/tree/master/0006-zigzag-conversion) |
 | [1044-longest-duplicate-substring](https://github.com/akashsinha2006/LeetCode/tree/master/1044-longest-duplicate-substring) |
 | [1096-brace-expansion-ii](https://github.com/akashsinha2006/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akashsinha2006/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
