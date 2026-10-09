@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/akashsinha2006/LeetCode/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/akashsinha2006/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akashsinha2006/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akashsinha2006/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akashsinha2006/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akashsinha2006/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akashsinha2006/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/akashsinha2006/LeetCode/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akashsinha2006/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/akashsinha2006/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akashsinha2006/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akashsinha2006/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akashsinha2006/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
@@ -289,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akashsinha2006/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akashsinha2006/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
