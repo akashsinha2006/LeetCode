@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akashsinha2006/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3310-remove-methods-from-project](https://github.com/akashsinha2006/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/akashsinha2006/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/akashsinha2006/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [3310-remove-methods-from-project](https://github.com/akashsinha2006/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akashsinha2006/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/akashsinha2006/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/akashsinha2006/LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
