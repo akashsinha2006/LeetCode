@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/akashsinha2006/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/akashsinha2006/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/akashsinha2006/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/akashsinha2006/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -384,11 +385,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akashsinha2006/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/akashsinha2006/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akashsinha2006/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/akashsinha2006/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Graph Theory
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akashsinha2006/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/akashsinha2006/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/akashsinha2006/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akashsinha2006/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/akashsinha2006/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Minimax
 |  |
 | ------- |
