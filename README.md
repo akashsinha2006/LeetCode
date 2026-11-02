@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/akashsinha2006/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akashsinha2006/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/akashsinha2006/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/akashsinha2006/LeetCode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1872-stone-game-viii](https://github.com/akashsinha2006/LeetCode/tree/master/1872-stone-game-viii) |
 | [2409-count-days-spent-together](https://github.com/akashsinha2006/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akashsinha2006/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
