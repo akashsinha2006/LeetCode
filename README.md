@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/akashsinha2006/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/akashsinha2006/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/akashsinha2006/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [0385-mini-parser](https://github.com/akashsinha2006/LeetCode/tree/master/0385-mini-parser) |
 | [0402-remove-k-digits](https://github.com/akashsinha2006/LeetCode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/akashsinha2006/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/akashsinha2006/LeetCode/tree/master/0856-score-of-parentheses) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0385-mini-parser](https://github.com/akashsinha2006/LeetCode/tree/master/0385-mini-parser) |
 | [1254-number-of-closed-islands](https://github.com/akashsinha2006/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akashsinha2006/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/akashsinha2006/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/akashsinha2006/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/akashsinha2006/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0385-mini-parser](https://github.com/akashsinha2006/LeetCode/tree/master/0385-mini-parser) |
 | [0402-remove-k-digits](https://github.com/akashsinha2006/LeetCode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/akashsinha2006/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/akashsinha2006/LeetCode/tree/master/0856-score-of-parentheses) |
