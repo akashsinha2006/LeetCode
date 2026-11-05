@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/akashsinha2006/LeetCode/tree/master/0018-4sum) |
 | [0274-h-index](https://github.com/akashsinha2006/LeetCode/tree/master/0274-h-index) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/akashsinha2006/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/akashsinha2006/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/akashsinha2006/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/akashsinha2006/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/akashsinha2006/LeetCode/tree/master/0493-reverse-pairs) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/akashsinha2006/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/akashsinha2006/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/akashsinha2006/LeetCode/tree/master/0493-reverse-pairs) |
 | [1044-longest-duplicate-substring](https://github.com/akashsinha2006/LeetCode/tree/master/1044-longest-duplicate-substring) |
 | [1208-get-equal-substrings-within-budget](https://github.com/akashsinha2006/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/akashsinha2006/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/akashsinha2006/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/akashsinha2006/LeetCode/tree/master/0493-reverse-pairs) |
 | [1395-count-number-of-teams](https://github.com/akashsinha2006/LeetCode/tree/master/1395-count-number-of-teams) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akashsinha2006/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/akashsinha2006/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/akashsinha2006/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/akashsinha2006/LeetCode/tree/master/0493-reverse-pairs) |
 | [1395-count-number-of-teams](https://github.com/akashsinha2006/LeetCode/tree/master/1395-count-number-of-teams) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akashsinha2006/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/akashsinha2006/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/akashsinha2006/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/akashsinha2006/LeetCode/tree/master/0493-reverse-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akashsinha2006/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/akashsinha2006/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -471,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/akashsinha2006/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/akashsinha2006/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/akashsinha2006/LeetCode/tree/master/0493-reverse-pairs) |
 | [3161-block-placement-queries](https://github.com/akashsinha2006/LeetCode/tree/master/3161-block-placement-queries) |
 ## Shortest Path
@@ -494,10 +500,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/akashsinha2006/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/akashsinha2006/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/akashsinha2006/LeetCode/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/akashsinha2006/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/akashsinha2006/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/akashsinha2006/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
