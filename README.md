@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/akashsinha2006/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/akashsinha2006/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/akashsinha2006/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1395-count-number-of-teams](https://github.com/akashsinha2006/LeetCode/tree/master/1395-count-number-of-teams) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akashsinha2006/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akashsinha2006/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akashsinha2006/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/akashsinha2006/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/akashsinha2006/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/akashsinha2006/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1395-count-number-of-teams](https://github.com/akashsinha2006/LeetCode/tree/master/1395-count-number-of-teams) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akashsinha2006/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akashsinha2006/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akashsinha2006/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1395-count-number-of-teams](https://github.com/akashsinha2006/LeetCode/tree/master/1395-count-number-of-teams) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akashsinha2006/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/akashsinha2006/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/akashsinha2006/LeetCode/tree/master/3161-block-placement-queries) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [1395-count-number-of-teams](https://github.com/akashsinha2006/LeetCode/tree/master/1395-count-number-of-teams) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akashsinha2006/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/akashsinha2006/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/akashsinha2006/LeetCode/tree/master/3161-block-placement-queries) |
